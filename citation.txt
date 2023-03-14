@@ -1,0 +1,7 @@
+@inproceedings{REPO-003,
+    author = "Patil, Akshay Gadi and Ben-Eliezer, Omri and Perel, Or and Averbuch-Elor, Hadar",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops",
+    pages = "544--545",
+    title = "{Read: Recursive Autoencoders for Document Layout Generation}",
+    year = "2020"
+}
